@@ -1,0 +1,69 @@
+{
+    "2025": [
+        {
+          "title": "Ico",
+          "audio": "ico.mp3",
+          "image": "ico.webp"
+        },
+        {
+          "title": "1000xRESIST",
+          "audio": "1000xresist.mp3",
+          "image": "1000xresist.webp"
+        },
+        {
+          "title": "Attack of the Friday Monsters! A Tokyo Tale",
+          "audio": "attack-of-the-friday-monsters-a-tokyo-tale.mp3",
+          "image": "attack-of-the-friday-monsters-a-tokyo-tale.webp"
+        },
+        {
+          "title": "Until Then",
+          "audio": "until-then.mp3",
+          "image": "until-then.webp"
+        },
+        {
+          "title": "Slay the Princess",
+          "audio": "slay-the-princess.mp3",
+          "image": "slay-the-princess.webp"
+        },
+        {
+          "title": "Detective Pikachu",
+          "audio": "detective-pikachu.mp3",
+          "image": "detective-pikachu.webp"
+        },
+        {
+          "title": "Mario Kart 8 Deluxe",
+          "audio": "mario-kart-8-deluxe.mp3",
+          "image": "mario-kart-8-deluxe.webp"
+        },
+        {
+          "title": "Dragon Age II",
+          "audio": "dragon-age-2.mp3",
+          "image": "dragon-age-2.webp"
+        },
+        {
+          "title": "Kirby's Dream Land",
+          "audio": "kirbys-dream-land.mp3",
+          "image": "kirbys-dream-land.webp"
+        },
+        {
+          "title": "Children of Morta",
+          "audio": "children-of-morta.mp3",
+          "image": "children-of-morta.webp"
+        },
+        {
+          "title": "Pokémon: Let's Go, Pikachu!",
+          "audio": "pokemon-lets-go-pikachu.mp3",
+          "image": "pokemon-lets-go-pikachu.webp"
+        },
+        {
+          "title": "Interaction Isn't Explicit",
+          "audio": "interaction-isnt-explicit.mp3",
+          "image": "interaction-isnt-explicit.webp"
+        },
+        {
+          "title": "Dragon Age: Inquisition",
+          "audio": "dragon-age-inquisition.mp3",
+          "image": "dragon-age-inquisition.webp"
+        }
+      ]
+  }

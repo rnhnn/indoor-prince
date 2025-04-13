@@ -1,0 +1,17 @@
+{
+  "slug": "together",
+  "title": "Together",
+  "date": "2025-02-22",
+  "image": "/images/blog/john-and-mary.webp",
+  "alt": "John and Mary from Children of Morta",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "Co-op with <a href=\"https://valstuff.com/\" target=\"_blank\">Val</a> has come a long way, I'd say. From sliding down snowy mountains as a wolf cub and deer in <em>Blanc</em>, to <em>endure-and-surviving</em> the waves of buffed-up spiders, goblins, ghosts, and skeletons in the dungeons of <em>Children of Morta</em>."
+    },
+    {
+      "type": "paragraph",
+      "html": "We're tough as nails now; keep 'em bosses coming."
+    }
+  ]
+}
