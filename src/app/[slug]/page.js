@@ -12,7 +12,7 @@ export default async function BlogPostPage({ params }) {
       <h1 className="blog-entry-title">{post.title}</h1>
       <Image
         className="blog-entry-image"
-        src={post.image}
+        src={`/images/blog/${post.image}`}
         alt={post.alt}
         width={637}
         height={0}

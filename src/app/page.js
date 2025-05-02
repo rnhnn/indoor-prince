@@ -17,7 +17,7 @@ export default function HomePage() {
           </h2>
           <Image
             className="blog-entry-image"
-            src={post.image}
+            src={`/images/blog/${post.image}`}
             alt={post.alt}
             width={637}
             height={0}
