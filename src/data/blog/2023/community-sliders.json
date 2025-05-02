@@ -1,0 +1,22 @@
+{
+  "slug": "community-sliders",
+  "title": "Community Sliders",
+  "date": "2023-12-03",
+  "image": "/images/blog/jude-bellingham.webp",
+  "alt": "Jude Bellingham wearing the number 5 shirt",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "<em>Bellinghamania</em> is fully underway, and not since <em>Zizou</em> was appointed  manager in 2016 have I been this excited about Real Madrid's future. I needed <em>something</em> from video games to carry me on this wave, but I was quickly reminded of a landscape that couldn’t be more horrifying:"
+    },
+    {
+      "type": "ordered-list",
+      "items": [
+        "<em>PES</em> is dead.",
+        "<em>eFootball</em> plays well, but the online mode it promotes is awful and boring. Master League is still missing in action.",
+        "<em>Football Manager</em> is too dangerous of a drug. I should stay away.",
+        "<em><s>FIFA</s> FC 24</em> is... uh... well... not <em>super</em> terrible, I guess. At least when combined with   <a href=\"https://forums.operationsports.com/forums/ea-sports-fifa-sliders/1014656-ea-sports-fc-24-os-community-sliders.html/\" target=\"_blank\">this Christmas miracle</a>."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "one-step-forward",
+  "title": "One Step Forward",
+  "date": "2023-11-23",
+  "image": "/images/blog/view-of-baldurs-gate.webp",
+  "alt": "A bard character looking to the city of Baldur’s Gate",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "Games spent enough time in my head for the creation of this blog to feel almost inevitable. Or maybe it has to do with the year ending?"
+    },
+    {
+      "type": "paragraph",
+      "html": "In any case, here it is! I’m not entirely sure about what the goal of these scribbles is, but for now, I hope that someday it will be fun to look back at these thoughts and remember... just how breathtaking my first playthrough of <em>Baldur’s Gate 3</em> was."
+    }
+  ]
+}

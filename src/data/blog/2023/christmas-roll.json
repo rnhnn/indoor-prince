@@ -1,0 +1,13 @@
+{
+  "slug": "christmas-roll",
+  "title": "Christmas Roll",
+  "date": "2023-12-26",
+  "image": "/images/blog/my-d20-dice.webp",
+  "alt": "My new d20 dice with our Christmas tree",
+  "content":[
+    {
+      "type": "paragraph",
+      "html": "<em>Baldur’s Gate 3</em> opened a door to a type of game I’ve been wanting to get into ever since I failed to make progress in <em>Icewind Dale II</em> as a kid, and <a href=\"https://valstuff.com/\" target=\"_blank\">Val's</a> Christmas gift is the perfect totem to crown it as my favourite game of the year. The amount of RPGs I want to play now is definitely not a lake, but an ocean."
+    }
+  ]
+} 

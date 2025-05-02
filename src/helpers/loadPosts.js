@@ -3,10 +3,27 @@ import path from 'path';
 
 const postsDirectory = path.join(process.cwd(), 'src/data/blog');
 
+// Recursively collect all JSON files from folders
+function getAllPostFiles(dir) {
+  let files = [];
+
+  fs.readdirSync(dir, { withFileTypes: true }).forEach((dirent) => {
+    const fullPath = path.join(dir, dirent.name);
+
+    if (dirent.isDirectory()) {
+      files = files.concat(getAllPostFiles(fullPath)); // recurse into subfolder
+    } else if (dirent.isFile() && fullPath.endsWith('.json')) {
+      files.push(fullPath);
+    }
+  });
+
+  return files;
+}
+
 export function getAllPosts() {
-  const filenames = fs.readdirSync(postsDirectory);
-  const posts = filenames.map((filename) => {
-    const filePath = path.join(postsDirectory, filename);
+  const filePaths = getAllPostFiles(postsDirectory);
+
+  const posts = filePaths.map((filePath) => {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const post = JSON.parse(fileContents);
     return post;
@@ -18,7 +35,17 @@ export function getAllPosts() {
 }
 
 export function getPostBySlug(slug) {
-  const filePath = path.join(postsDirectory, `${slug}.json`);
-  const fileContents = fs.readFileSync(filePath, 'utf8');
+  // Now we need to check all subfolders for the correct slug
+  const filePaths = getAllPostFiles(postsDirectory);
+
+  const matchingFile = filePaths.find((filePath) =>
+    filePath.endsWith(`${slug}.json`)
+  );
+
+  if (!matchingFile) {
+    throw new Error(`Post with slug "${slug}" not found`);
+  }
+
+  const fileContents = fs.readFileSync(matchingFile, 'utf8');
   return JSON.parse(fileContents);
 }

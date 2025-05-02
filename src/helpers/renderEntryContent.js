@@ -19,6 +19,26 @@ export function renderEntryContent(blocks) {
       );
     }
 
+    if (block.type === 'unordered-list') {
+      return (
+        <ul key={index}>
+          {block.items.map((item, itemIndex) => (
+            <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }} />
+          ))}
+        </ul>
+      );
+    }
+
+    if (block.type === 'ordered-list') {
+      return (
+        <ol key={index}>
+          {block.items.map((item, itemIndex) => (
+            <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }} />
+          ))}
+        </ol>
+      );
+    }
+
     return null;
   });
 }

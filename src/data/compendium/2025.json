@@ -64,6 +64,16 @@
           "title": "Dragon Age: Inquisition",
           "audio": "dragon-age-inquisition.mp3",
           "image": "dragon-age-inquisition.webp"
+        },
+        {
+          "title": "Afterlove EP",
+          "audio": "afterlove-ep.mp3",
+          "image": "afterlove-ep.webp"
+        },
+        {
+          "title": "Dragon Age: The Veilguard",
+          "audio": "dragon-age-the-veilguard.mp3",
+          "image": "dragon-age-the-veilguard.webp"
         }
       ]
   }
