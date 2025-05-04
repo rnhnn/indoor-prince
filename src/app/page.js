@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { getAllPosts } from '@/helpers/loadPosts';
 import { formatDate } from '@/helpers/formatDate';
 import { renderEntryContent } from '@/helpers/renderEntryContent';
-import Index from '@/components/Index';
+import Archive from '@/components/Archive';
 
 export default function HomePage() {
   const posts = getAllPosts();
@@ -30,8 +30,7 @@ export default function HomePage() {
         </article>
       ))}
 
-      {/* Blog index floating button and popup */}
-      <Index posts={posts} />
+      <Archive posts={posts} />
     </main>
   );
 }

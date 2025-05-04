@@ -1,9 +1,9 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { formatIndexDate } from '@/helpers/formatDate';
+import { formatArchiveDate } from '@/helpers/formatDate';
 
-export default function Index({ posts }) {
+export default function Archive({ posts }) {
   const [isOpen, setIsOpen] = useState(false);
 
   // Add/remove 'fixed' class on <body> to prevent scrolling
@@ -41,7 +41,7 @@ export default function Index({ posts }) {
           <ul className="blog-index-list">
             {posts.map((post) => (
               <li className="blog-index-list-item" key={post.slug}>
-                <span>{formatIndexDate(post.date)}</span>
+                <span>{formatArchiveDate(post.date)}</span>
                 <a href={`/${post.slug}`}>{post.title}</a>
               </li>
             ))}

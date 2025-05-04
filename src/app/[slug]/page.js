@@ -1,17 +1,17 @@
 import Image from 'next/image';
 import { getPostBySlug } from '@/helpers/loadPosts';
-import { getAllPosts } from '@/helpers/loadPosts'; // Import this to get the list of all posts
+import { getAllPosts } from '@/helpers/loadPosts';
 import { formatDate } from '@/helpers/formatDate';
 import { renderEntryContent } from '@/helpers/renderEntryContent';
-import Index from '@/components/Index'; // Import the Index component
+import Archive from '@/components/Archive';
 
 export default async function BlogPostPage({ params }) {
   const post = getPostBySlug(params.slug);
-  const posts = getAllPosts(); // Get all posts to pass to the Index
+  const posts = getAllPosts();
 
   return (
     <>
-      <Index posts={posts} /> {/* Include Index here */}
+      <Archive posts={posts} />
 
       <main className="blog-entry">
         <time className="blog-entry-date">{formatDate(post.date)}</time>

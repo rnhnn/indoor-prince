@@ -12,7 +12,7 @@ export function formatDate(dateString) {
 }
 
 // Index format: "2025 · 04"
-export function formatIndexDate(dateString) {
+export function formatArchiveDate(dateString) {
   const [year, month] = dateString.split('-');
   return `${year} · ${month}`;
 }
