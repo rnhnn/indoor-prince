@@ -1,0 +1,13 @@
+{
+  "slug": "sturgeon-day",
+  "title": "Sturgeon Day",
+  "date": "2023-12-27",
+  "image": "val-fishing.webp",
+  "alt": "Val fishing in Stardew Valley",
+  "content":[
+    {
+      "type": "paragraph",
+      "html": "Lil’ <a href=\"https://valstuff.com/\" target=\"_blank\">Val</a> just caught our dinner for tonight. She’s going places!"
+    }
+  ]
+} 
