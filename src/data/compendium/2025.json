@@ -74,6 +74,16 @@
           "title": "Dragon Age: The Veilguard",
           "audio": "dragon-age-the-veilguard.mp3",
           "image": "dragon-age-the-veilguard.webp"
+        },
+        {
+          "title": "The Roottrees are Dead",
+          "audio": "the-roottrees-are-dead.mp3",
+          "image": "the-roottrees-are-dead.webp"
+        },
+        {
+          "title": "Tony Hawk's Pro Skater 1+2",
+          "audio": "tony-hawk-pro-skater-1-+-2.mp3",
+          "image": "tony-hawk-pro-skater-1-+-2.webp"
         }
       ]
   }

@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { getAllPosts } from '@/helpers/loadPosts';
 import { formatDate } from '@/helpers/formatDate';
 import { renderEntryContent } from '@/helpers/renderEntryContent';
+import Index from '@/components/Index';
 
 export default function HomePage() {
   const posts = getAllPosts();
@@ -28,6 +29,9 @@ export default function HomePage() {
           </div>
         </article>
       ))}
+
+      {/* Blog index floating button and popup */}
+      <Index posts={posts} />
     </main>
   );
 }
