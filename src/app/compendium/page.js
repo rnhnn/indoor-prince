@@ -83,13 +83,13 @@ export default function CompendiumPage() {
           >
             {yearData[year]?.map((game, index) => (
               <li
-                key={`${game.audio}-${index}`}
-                className={`game ${playingAudio === game.audio ? 'is-active' : ''}`}
-                onClick={() => handleGameClick(game.audio)}
+                key={`${game.filename}-${index}`}
+                className={`game ${playingAudio === game.filename + '.mp3' ? 'is-active' : ''}`}
+                onClick={() => handleGameClick(`${game.filename}.mp3`)}
               >
                 <figure className="game-art">
                   <Image
-                    src={`/images/compendium/${game.image}`}
+                    src={`/images/compendium/${game.filename}.webp`}
                     alt={game.title}
                     width={264}
                     height={423}

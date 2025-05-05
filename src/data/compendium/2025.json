@@ -1,89 +1,72 @@
 {
-    "2025": [
-        {
-          "title": "Ico",
-          "audio": "ico.mp3",
-          "image": "ico.webp"
-        },
-        {
-          "title": "1000xRESIST",
-          "audio": "1000xresist.mp3",
-          "image": "1000xresist.webp"
-        },
-        {
-          "title": "Attack of the Friday Monsters! A Tokyo Tale",
-          "audio": "attack-of-the-friday-monsters-a-tokyo-tale.mp3",
-          "image": "attack-of-the-friday-monsters-a-tokyo-tale.webp"
-        },
-        {
-          "title": "Until Then",
-          "audio": "until-then.mp3",
-          "image": "until-then.webp"
-        },
-        {
-          "title": "Slay the Princess",
-          "audio": "slay-the-princess.mp3",
-          "image": "slay-the-princess.webp"
-        },
-        {
-          "title": "Detective Pikachu",
-          "audio": "detective-pikachu.mp3",
-          "image": "detective-pikachu.webp"
-        },
-        {
-          "title": "Mario Kart 8 Deluxe",
-          "audio": "mario-kart-8-deluxe.mp3",
-          "image": "mario-kart-8-deluxe.webp"
-        },
-        {
-          "title": "Dragon Age II",
-          "audio": "dragon-age-2.mp3",
-          "image": "dragon-age-2.webp"
-        },
-        {
-          "title": "Kirby's Dream Land",
-          "audio": "kirbys-dream-land.mp3",
-          "image": "kirbys-dream-land.webp"
-        },
-        {
-          "title": "Children of Morta",
-          "audio": "children-of-morta.mp3",
-          "image": "children-of-morta.webp"
-        },
-        {
-          "title": "Pokémon: Let's Go, Pikachu!",
-          "audio": "pokemon-lets-go-pikachu.mp3",
-          "image": "pokemon-lets-go-pikachu.webp"
-        },
-        {
-          "title": "Interaction Isn't Explicit",
-          "audio": "interaction-isnt-explicit.mp3",
-          "image": "interaction-isnt-explicit.webp"
-        },
-        {
-          "title": "Dragon Age: Inquisition",
-          "audio": "dragon-age-inquisition.mp3",
-          "image": "dragon-age-inquisition.webp"
-        },
-        {
-          "title": "Afterlove EP",
-          "audio": "afterlove-ep.mp3",
-          "image": "afterlove-ep.webp"
-        },
-        {
-          "title": "Dragon Age: The Veilguard",
-          "audio": "dragon-age-the-veilguard.mp3",
-          "image": "dragon-age-the-veilguard.webp"
-        },
-        {
-          "title": "The Roottrees are Dead",
-          "audio": "the-roottrees-are-dead.mp3",
-          "image": "the-roottrees-are-dead.webp"
-        },
-        {
-          "title": "Tony Hawk's Pro Skater 1+2",
-          "audio": "tony-hawk-pro-skater-1-+-2.mp3",
-          "image": "tony-hawk-pro-skater-1-+-2.webp"
-        }
-      ]
-  }
+  "2025": [
+    {
+      "title": "Ico",
+      "filename": "ico"
+    },
+    {
+      "title": "1000xRESIST",
+      "filename": "1000xresist"
+    },
+    {
+      "title": "Attack of the Friday Monsters! A Tokyo Tale",
+      "filename": "attack-of-the-friday-monsters-a-tokyo-tale"
+    },
+    {
+      "title": "Until Then",
+      "filename": "until-then"
+    },
+    {
+      "title": "Slay the Princess",
+      "filename": "slay-the-princess"
+    },
+    {
+      "title": "Detective Pikachu",
+      "filename": "detective-pikachu"
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "filename": "mario-kart-8-deluxe"
+    },
+    {
+      "title": "Dragon Age II",
+      "filename": "dragon-age-2"
+    },
+    {
+      "title": "Kirby's Dream Land",
+      "filename": "kirbys-dream-land"
+    },
+    {
+      "title": "Children of Morta",
+      "filename": "children-of-morta"
+    },
+    {
+      "title": "Pokémon: Let's Go, Pikachu!",
+      "filename": "pokemon-lets-go-pikachu"
+    },
+    {
+      "title": "Interaction Isn't Explicit",
+      "filename": "interaction-isnt-explicit"
+    },
+    {
+      "title": "Dragon Age: Inquisition",
+      "filename": "dragon-age-inquisition"
+    },
+    {
+      "title": "Afterlove EP",
+      "filename": "afterlove-ep"
+    },
+    {
+      "title": "Dragon Age: The Veilguard",
+      "filename": "dragon-age-the-veilguard"
+    },
+    {
+      "title": "The Roottrees are Dead",
+      "filename": "the-roottrees-are-dead"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 1+2",
+      "filename": "tony-hawk-pro-skater-1-+-2"
+    }
+  ]
+}
