@@ -1,139 +1,112 @@
 {
-    "2020": [
-      {
-        "title": "The Last Guardian",
-        "audio": "the-last-guardian.mp3",
-        "image": "the-last-guardian.webp"
-      },
-      {
-        "title": "Kingdom Hearts",
-        "audio": "kingdom-hearts.mp3",
-        "image": "kingdom-hearts.webp"
-      },
-      {
-        "title": "Kingdom Hearts 2",
-        "audio": "kingdom-hearts-2.mp3",
-        "image": "kingdom-hearts-2.webp"
-      },
-      {
-        "title": "Death Stranding",
-        "audio": "death-stranding.mp3",
-        "image": "death-stranding.webp"
-      },
-      {
-        "title": "Star Wars Jedi: Fallen Order",
-        "audio": "star-wars-jedi-fallen-order.mp3",
-        "image": "star-wars-jedi-fallen-order.webp"
-      },
-      {
-        "title": "Vampire: The Masquerade - Coteries of New York",
-        "audio": "vampire-the-masquerade-coteries-of-new-york.mp3",
-        "image": "vampire-the-masquerade-coteries-of-new-york.webp"
-      },
-      {
-        "title": "The Legend of Korra",
-        "audio": "the-legend-of-korra.mp3",
-        "image": "the-legend-of-korra.webp"
-      },
-      {
-        "title": "Suikoden",
-        "audio": "suikoden.mp3",
-        "image": "suikoden.webp"
-      },
-      {
-        "title": "Suikoden II",
-        "audio": "suikoden-2.mp3",
-        "image": "suikoden-2.webp"
-      },
-      {
-        "title": "Suikogaiden Volume 1: Swordsman of Harmonia",
-        "audio": "suikogaiden-vol-1-swordsman-of-harmonia.mp3",
-        "image": "suikogaiden-vol-1-swordsman-of-harmonia.webp"
-      },
-      {
-        "title": "Suikogaiden Volume 2: Duel at the Crystal Valley",
-        "audio": "suikogaiden-vol-2-duel-at-the-crystal-valley.mp3",
-        "image": "suikogaiden-vol-2-duel-at-the-crystal-valley.webp"
-      },
-      {
-        "title": "Persona 5 Royal",
-        "audio": "persona-5-royal.mp3",
-        "image": "persona-5-royal.webp"
-      },
-      {
-        "title": "The Last of Us",
-        "audio": "the-last-of-us.mp3",
-        "image": "the-last-of-us.webp"
-      },
-      {
-        "title": "The Last of Us Part II",
-        "audio": "the-last-of-us-part-2.mp3",
-        "image": "the-last-of-us-part-2.webp"
-      },
-      {
-        "title": "Ghost of Tsushima",
-        "audio": "ghost-of-tsushima.mp3",
-        "image": "ghost-of-tsushima.webp"
-      },
-      {
-        "title": "Uncharted: Drake’s Fortune",
-        "audio": "uncharted-drakes-fortune.mp3",
-        "image": "uncharted-drakes-fortune.webp"
-      },
-      {
-        "title": "Gears of War",
-        "audio": "gears-of-war.mp3",
-        "image": "gears-of-war.webp"
-      },
-      {
-        "title": "Assassin’s Creed",
-        "audio": "assassins-creed.mp3",
-        "image": "assassins-creed.webp"
-      },
-      {
-        "title": "A King’s Tale: Final Fantasy XV",
-        "audio": "a-kings-tale-final-fantasy-15.mp3",
-        "image": "a-kings-tale-final-fantasy-15.webp"
-      },
-      {
-        "title": "Final Fantasy XV",
-        "audio": "final-fantasy-15.mp3",
-        "image": "final-fantasy-15.webp"
-      },
-      {
-        "title": "Uncharted 2: Among Thieves",
-        "audio": "uncharted-2-among-thieves.mp3",
-        "image": "uncharted-2-among-thieves.webp"
-      },
-      {
-        "title": "Persona 4 Golden",
-        "audio": "persona-4-golden.mp3",
-        "image": "persona-4-golden.webp"
-      },
-      {
-        "title": "Bright Memory",
-        "audio": "bright-memory.mp3",
-        "image": "bright-memory.webp"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "audio": "cyberpunk-2077.mp3",
-        "image": "cyberpunk-2077.webp"
-      },
-      {
-        "title": "Gran Turismo Sport",
-        "audio": "gran-turismo-sport.mp3",
-        "image": "gran-turismo-sport.webp"
-      },
-      {
-        "title": "Astro’s Playroom",
-        "audio": "astros-playroom.mp3",
-        "image": "astros-playroom.webp"
-      },
-      {
-        "title": "Marvel’s Spider-Man: Miles Morales",
-        "audio": "marvels-spider-man-miles-morales.mp3",
-        "image": "marvels-spider-man-miles-morales.webp"
-      }
-    ]
-  }
+  "2020": [
+    {
+      "title": "The Last Guardian",
+      "filename": "the-last-guardian"
+    },
+    {
+      "title": "Kingdom Hearts",
+      "filename": "kingdom-hearts"
+    },
+    {
+      "title": "Kingdom Hearts 2",
+      "filename": "kingdom-hearts-2"
+    },
+    {
+      "title": "Death Stranding",
+      "filename": "death-stranding"
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "filename": "star-wars-jedi-fallen-order"
+    },
+    {
+      "title": "Vampire: The Masquerade - Coteries of New York",
+      "filename": "vampire-the-masquerade-coteries-of-new-york"
+    },
+    {
+      "title": "The Legend of Korra",
+      "filename": "the-legend-of-korra"
+    },
+    {
+      "title": "Suikoden",
+      "filename": "suikoden"
+    },
+    {
+      "title": "Suikoden II",
+      "filename": "suikoden-2"
+    },
+    {
+      "title": "Suikogaiden Volume 1: Swordsman of Harmonia",
+      "filename": "suikogaiden-vol-1-swordsman-of-harmonia"
+    },
+    {
+      "title": "Suikogaiden Volume 2: Duel at the Crystal Valley",
+      "filename": "suikogaiden-vol-2-duel-at-the-crystal-valley"
+    },
+    {
+      "title": "Persona 5 Royal",
+      "filename": "persona-5-royal"
+    },
+    {
+      "title": "The Last of Us",
+      "filename": "the-last-of-us"
+    },
+    {
+      "title": "The Last of Us Part II",
+      "filename": "the-last-of-us-part-2"
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "filename": "ghost-of-tsushima"
+    },
+    {
+      "title": "Uncharted: Drake’s Fortune",
+      "filename": "uncharted-drakes-fortune"
+    },
+    {
+      "title": "Gears of War",
+      "filename": "gears-of-war"
+    },
+    {
+      "title": "Assassin’s Creed",
+      "filename": "assassins-creed"
+    },
+    {
+      "title": "A King’s Tale: Final Fantasy XV",
+      "filename": "a-kings-tale-final-fantasy-15"
+    },
+    {
+      "title": "Final Fantasy XV",
+      "filename": "final-fantasy-15"
+    },
+    {
+      "title": "Uncharted 2: Among Thieves",
+      "filename": "uncharted-2-among-thieves"
+    },
+    {
+      "title": "Persona 4 Golden",
+      "filename": "persona-4-golden"
+    },
+    {
+      "title": "Bright Memory",
+      "filename": "bright-memory"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "filename": "cyberpunk-2077"
+    },
+    {
+      "title": "Gran Turismo Sport",
+      "filename": "gran-turismo-sport"
+    },
+    {
+      "title": "Astro’s Playroom",
+      "filename": "astros-playroom"
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "filename": "marvels-spider-man-miles-morales"
+    }
+  ]
+}

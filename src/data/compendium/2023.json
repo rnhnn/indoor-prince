@@ -1,169 +1,148 @@
 {
   "2023": [
-      {
-        "title": "Shin-chan: Me and the Professor on Summer Vacation – The Endless Seven-Day Journey",
-        "audio": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.mp3"
-      },
-      {
-        "title": "Lil’ Gator Game",
-        "audio": "lil-gator-game.mp3"
-      },
-      {
-        "title": "Bastion",
-        "audio": "bastion.mp3"
-      },
-      {
-        "title": "A Space for the Unbound",
-        "audio": "a-space-for-the-unbound.mp3"
-      },
-      {
-        "title": "Vampire Survivors",
-        "audio": "vampire-survivors.mp3"
-      },
-      {
-        "title": "Star Wars Jedi: Fallen Order",
-        "audio": "star-wars-jedi-fallen-order.mp3"
-      },
-      {
-        "title": "Pokemon Red Version",
-        "audio": "pokemon-red-version.mp3"
-      },
-      {
-        "title": "Chase: Cold Case Investigations - Distant Memories",
-        "audio": "chase-cold-case-investigations-distant-memories.mp3"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "audio": "hogwarts-legacy.mp3"
-      },
-      {
-        "title": "Norco",
-        "audio": "norco.mp3"
-      },
-      {
-        "title": "Bully",
-        "audio": "bully.mp3"
-      },
-      {
-        "title": "Blanc",
-        "audio": "blanc.mp3"
-      },
-      {
-        "title": "Melon Journey Pocket",
-        "audio": "melon-journey-pocket.mp3"
-      },
-      {
-        "title": "The Shivah",
-        "audio": "the-shivah.mp3"
-      },
-      {
-        "title": "Diablo III",
-        "audio": "diablo-3.mp3"
-      },
-      {
-        "title": "The Legend of Zelda: Breath of the Wild",
-        "audio": "the-legend-of-zelda-breath-of-the-wild.mp3",
-        "image": "the-legend-of-zelda-breath-of-the-wild.webp"
-      },
-      {
-        "title": "Shadow of the Colossus",
-        "audio": "shadow-of-the-colossus.mp3",
-        "image": "shadow-of-the-colossus.webp"
-      },
-      {
-        "title": "The Last of Us Part I",
-        "audio": "the-last-of-us-part-1.mp3",
-        "image": "the-last-of-us-part-1.webp"
-      },
-      {
-        "title": "Final Fantasy XVI",
-        "audio": "final-fantasy-16.mp3",
-        "image": "final-fantasy-16.webp"
-      },
-      {
-        "title": "The Legend of Zelda: Tears of the Kingdom",
-        "audio": "the-legend-of-zelda-tears-of-the-kingdom.mp3",
-        "image": "the-legend-of-zelda-tears-of-the-kingdom.webp"
-      },
-      {
-        "title": "Diablo IV",
-        "audio": "diablo-4.mp3",
-        "image": "diablo-4.webp"
-      },
-      {
-        "title": "Star Wars Jedi: Survivor",
-        "audio": "star-wars-jedi-survivor.mp3",
-        "image": "star-wars-jedi-survivor.webp"
-      },
-      {
-        "title": "Marvel’s Spider-Man",
-        "audio": "marvels-spider-man.mp3",
-        "image": "marvels-spider-man.webp"
-      },
-      {
-        "title": "Marvel’s Spider-Man: Miles Morales",
-        "audio": "marvels-spider-man-miles-morales.mp3",
-        "image": "marvels-spider-man-miles-morales.webp"
-      },
-      {
-        "title": "Game of Thrones: A Telltale Games Series",
-        "audio": "game-of-thrones-a-telltale-game-series.mp3",
-        "image": "game-of-thrones-a-telltale-game-series.webp"
-      },
-      {
-        "title": "Alan Wake",
-        "audio": "alan-wake.mp3",
-        "image": "alan-wake.webp"
-      },
-      {
-        "title": "The Expanse",
-        "audio": "the-expanse.mp3",
-        "image": "the-expanse.webp"
-      },
-      {
-        "title": "Alan Wake’s American Nightmare",
-        "audio": "alan-wake-american-nightmare.mp3",
-        "image": "alan-wake-american-nightmare.webp"
-      },
-      {
-        "title": "Baldur’s Gate 3",
-        "audio": "baldurs-gate-3.mp3",
-        "image": "baldurs-gate-3.webp"
-      },
-      {
-        "title": "Marvel’s Spider-Man 2",
-        "audio": "marvels-spider-man-2.mp3",
-        "image": "marvels-spider-man-2.webp"
-      },
-      {
-        "title": "Control",
-        "audio": "control.mp3",
-        "image": "control.webp"
-      },
-      {
-        "title": "Alan Wake II",
-        "audio": "alan-wake-2.mp3",
-        "image": "alan-wake-2.webp"
-      },
-      {
-        "title": "Lake: Season’s Greetings",
-        "audio": "lake-seasons-greetings.mp3",
-        "image": "lake-seasons-greetings.webp"
-      },
-      {
-        "title": "Super Mario Bros. Wonder",
-        "audio": "super-mario-bros-wonder.mp3",
-        "image": "super-mario-bros-wonder.webp"
-      },
-      {
-        "title": "The Murder of Sonic the Hedgehog",
-        "audio": "the-murder-of-sonic-the-hedgehog.mp3",
-        "image": "the-murder-of-sonic-the-hedgehog.webp"
-      },
-      {
-        "title": "God of War: Valhalla",
-        "audio": "god-of-war-valhalla.mp3",
-        "image": "god-of-war-valhalla.webp"
-      }
-    ]
-  }
+    {
+      "title": "Shin-chan: Me and the Professor on Summer Vacation – The Endless Seven-Day Journey",
+      "filename": "shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey"
+    },
+    {
+      "title": "Lil’ Gator Game",
+      "filename": "lil-gator-game"
+    },
+    {
+      "title": "Bastion",
+      "filename": "bastion"
+    },
+    {
+      "title": "A Space for the Unbound",
+      "filename": "a-space-for-the-unbound"
+    },
+    {
+      "title": "Vampire Survivors",
+      "filename": "vampire-survivors"
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "filename": "star-wars-jedi-fallen-order"
+    },
+    {
+      "title": "Pokemon Red Version",
+      "filename": "pokemon-red-version"
+    },
+    {
+      "title": "Chase: Cold Case Investigations - Distant Memories",
+      "filename": "chase-cold-case-investigations-distant-memories"
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "filename": "hogwarts-legacy"
+    },
+    {
+      "title": "Norco",
+      "filename": "norco"
+    },
+    {
+      "title": "Bully",
+      "filename": "bully"
+    },
+    {
+      "title": "Blanc",
+      "filename": "blanc"
+    },
+    {
+      "title": "Melon Journey Pocket",
+      "filename": "melon-journey-pocket"
+    },
+    {
+      "title": "The Shivah",
+      "filename": "the-shivah"
+    },
+    {
+      "title": "Diablo III",
+      "filename": "diablo-3"
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "filename": "the-legend-of-zelda-breath-of-the-wild"
+    },
+    {
+      "title": "Shadow of the Colossus",
+      "filename": "shadow-of-the-colossus"
+    },
+    {
+      "title": "The Last of Us Part I",
+      "filename": "the-last-of-us-part-1"
+    },
+    {
+      "title": "Final Fantasy XVI",
+      "filename": "final-fantasy-16"
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "filename": "the-legend-of-zelda-tears-of-the-kingdom"
+    },
+    {
+      "title": "Diablo IV",
+      "filename": "diablo-4"
+    },
+    {
+      "title": "Star Wars Jedi: Survivor",
+      "filename": "star-wars-jedi-survivor"
+    },
+    {
+      "title": "Marvel’s Spider-Man",
+      "filename": "marvels-spider-man"
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "filename": "marvels-spider-man-miles-morales"
+    },
+    {
+      "title": "Game of Thrones: A Telltale Games Series",
+      "filename": "game-of-thrones-a-telltale-game-series"
+    },
+    {
+      "title": "Alan Wake",
+      "filename": "alan-wake"
+    },
+    {
+      "title": "The Expanse",
+      "filename": "the-expanse"
+    },
+    {
+      "title": "Alan Wake’s American Nightmare",
+      "filename": "alan-wake-american-nightmare"
+    },
+    {
+      "title": "Baldur’s Gate 3",
+      "filename": "baldurs-gate-3"
+    },
+    {
+      "title": "Marvel’s Spider-Man 2",
+      "filename": "marvels-spider-man-2"
+    },
+    {
+      "title": "Control",
+      "filename": "control"
+    },
+    {
+      "title": "Alan Wake II",
+      "filename": "alan-wake-2"
+    },
+    {
+      "title": "Lake: Season’s Greetings",
+      "filename": "lake-seasons-greetings"
+    },
+    {
+      "title": "Super Mario Bros. Wonder",
+      "filename": "super-mario-bros-wonder"
+    },
+    {
+      "title": "The Murder of Sonic the Hedgehog",
+      "filename": "the-murder-of-sonic-the-hedgehog"
+    },
+    {
+      "title": "God of War: Valhalla",
+      "filename": "god-of-war-valhalla"
+    }
+  ]
+}

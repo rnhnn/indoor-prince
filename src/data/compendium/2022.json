@@ -1,254 +1,204 @@
 {
-    "2022": [
-      {
-        "title": "Lake",
-        "audio": "lake.mp3",
-        "image": "lake.webp"
-      },
-      {
-        "title": "Hotel Dusk",
-        "audio": "hotel-dusk.mp3",
-        "image": "hotel-dusk.webp"
-      },
-      {
-        "title": "Horizon Zero Dawn",
-        "audio": "horizon-zero-dawn.mp3",
-        "image": "horizon-zero-dawn.webp"
-      },
-      {
-        "title": "Halo: Combat Evolved",
-        "audio": "halo-combat-evolved.mp3",
-        "image": "halo-combat-evolved.webp"
-      },
-      {
-        "title": "Sifu",
-        "audio": "sifu.mp3",
-        "image": "sifu.webp"
-      },
-      {
-        "title": "Pokémon Legends: Arceus",
-        "audio": "pokemon-legends-arceus.mp3",
-        "image": "pokemon-legends-arceus.webp"
-      },
-      {
-        "title": "Last Window: The Secret of Cape West",
-        "audio": "last-window-the-secret-of-cape-west.mp3",
-        "image": "last-window-the-secret-of-cape-west.webp"
-      },
-      {
-        "title": "The Blackwell Legacy",
-        "audio": "the-blackwell-legacy.mp3",
-        "image": "the-blackwell-legacy.webp"
-      },
-      {
-        "title": "The Blackwell Unbound",
-        "audio": "blackwell-unbound.mp3",
-        "image": "blackwell-unbound.webp"
-      },
-      {
-        "title": "The Blackwell Convergence",
-        "audio": "blackwell-convergence.mp3",
-        "image": "blackwell-convergence.webp"
-      },
-      {
-        "title": "The Blackwell Deception",
-        "audio": "blackwell-deception.mp3",
-        "image": "blackwell-deception.webp"
-      },
-      {
-        "title": "The Blackwell Epiphany",
-        "audio": "blackwell-epiphany.mp3",
-        "image": "blackwell-epiphany.webp"
-      },
-      {
-        "title": "Untitled Goose Game",
-        "audio": "untitled-goose-game.mp3",
-        "image": "untitled-goose-game.webp"
-      },
-      {
-        "title": "Dark Souls",
-        "audio": "dark-souls.mp3",
-        "image": "dark-souls.webp"
-      },
-      {
-        "title": "Unavowed",
-        "audio": "unavowed.mp3",
-        "image": "unavowed.webp"
-      },
-      {
-        "title": "The Secret of Monkey Island",
-        "audio": "the-secret-of-monkey-island.mp3",
-        "image": "the-secret-of-monkey-island.webp"
-      },
-      {
-        "title": "Brothers",
-        "audio": "brothers.mp3",
-        "image": "brothers.webp"
-      },
-      {
-        "title": "Unravel Two",
-        "audio": "unravel-two.mp3",
-        "image": "unravel-two.webp"
-      },
-      {
-        "title": "Chrono Trigger",
-        "audio": "chrono-trigger.mp3",
-        "image": "chrono-trigger.webp"
-      },
-      {
-        "title": "Elden Ring",
-        "audio": "elden-ring.mp3",
-        "image": "elden-ring.webp"
-      },
-      {
-        "title": "Animal Crossing: New Horizons",
-        "audio": "animal-crossing-new-horizons.mp3",
-        "image": "animal-crossing-new-horizons.webp"
-      },
-      {
-        "title": "Radical Dreamers: Le Trésor Interdit",
-        "audio": "radical-dreamers-le-tresor-interdit.mp3",
-        "image": "radical-dreamers-le-tresor-interdit.webp"
-      },
-      {
-        "title": "Chrono Cross",
-        "audio": "chrono-cross.mp3",
-        "image": "chrono-cross.webp"
-      },
-      {
-        "title": "The Walking Dead",
-        "audio": "the-walking-dead.mp3",
-        "image": "the-walking-dead.webp"
-      },
-      {
-        "title": "The Walking Dead: Season Two",
-        "audio": "the-walking-dead-season-two.mp3",
-        "image": "the-walking-dead-season-two.webp"
-      },
-      {
-        "title": "The Walking Dead: Michonne",
-        "audio": "the-walking-dead-michonne.mp3",
-        "image": "the-walking-dead-michonne.webp"
-      },
-      {
-        "title": "The Walking Dead: A New Frontier",
-        "audio": "the-walking-dead-a-new-frontier.mp3",
-        "image": "the-walking-dead-a-new-frontier.webp"
-      },
-      {
-        "title": "The Walking Dead: The Final Season",
-        "audio": "the-walking-dead-the-final-season.mp3",
-        "image": "the-walking-dead-the-final-season.webp"
-      },
-      {
-        "title": "Grand Theft Auto V",
-        "audio": "grand-theft-auto-v.mp3",
-        "image": "grand-theft-auto-v.webp"
-      },
-      {
-        "title": "Disco Elysium",
-        "audio": "disco-elysium.mp3",
-        "image": "disco-elysium.webp"
-      },
-      {
-        "title": "Horizon Forbidden West",
-        "audio": "horizon-forbidden-west.mp3",
-        "image": "horizon-forbidden-west.webp"
-      },
-      {
-        "title": "Nobody Saves the World",
-        "audio": "nobody-saves-the-world.mp3",
-        "image": "nobody-saves-the-world.webp"
-      },
-      {
-        "title": "Monkey Island 2: LeChuck’s Revenge",
-        "audio": "monkey-island-2-lechucks-revenge.mp3",
-        "image": "monkey-island-2-lechucks-revenge.webp"
-      },
-      {
-        "title": "God of War",
-        "audio": "god-of-war.mp3",
-        "image": "god-of-war.webp"
-      },
-      {
-        "title": "God of War II",
-        "audio": "god-of-war-2.mp3",
-        "image": "god-of-war-2.webp"
-      },
-      {
-        "title": "God of War: Chains of Olympus",
-        "audio": "god-of-war-chains-of-olympus.mp3",
-        "image": "god-of-war-chains-of-olympus.webp"
-      },
-      {
-        "title": "God of War III",
-        "audio": "god-of-war-3.mp3",
-        "image": "god-of-war-3.webp"
-      },
-      {
-        "title": "God of War: Ghost of Sparta",
-        "audio": "god-of-war-ghost-of-sparta.mp3",
-        "image": "god-of-war-ghost-of-sparta.webp"
-      },
-      {
-        "title": "God of War: Ascension",
-        "audio": "god-of-war-ascension.mp3",
-        "image": "god-of-war-ascension.webp"
-      },
-      {
-        "title": "God of War (2018)",
-        "audio": "god-of-war-2018.mp3",
-        "image": "god-of-war-2018.webp"
-      },
-      {
-        "title": "Star Wars: Episode III: Revenge of the Sith",
-        "audio": "star-wars-episode-3-revenge-of-the-sith.mp3",
-        "image": "star-wars-episode-3-revenge-of-the-sith.webp"
-      },
-      {
-        "title": "The Stanley Parable: Ultra Deluxe",
-        "audio": "the-stanley-parable-ultra-deluxe.mp3",
-        "image": "the-stanley-parable-ultra-deluxe.webp"
-      },
-      {
-        "title": "The Curse of Monkey Island",
-        "audio": "the-curse-of-monkey-island.mp3",
-        "image": "the-curse-of-monkey-island.webp"
-      },
-      {
-        "title": "Forza Horizon 4",
-        "audio": "forza-horizon-4.mp3",
-        "image": "forza-horizon-4.webp"
-      },
-      {
-        "title": "Stray",
-        "audio": "stray.mp3",
-        "image": "stray.webp"
-      },
-      {
-        "title": "A Way Out",
-        "audio": "a-way-out.mp3",
-        "image": "a-way-out.webp"
-      },
-      {
-        "title": "A Short Hike",
-        "audio": "a-short-hike.mp3",
-        "image": "a-short-hike.webp"
-      },
-      {
-        "title": "Gone Home",
-        "audio": "gone-home.mp3",
-        "image": "gone-home.webp"
-      },
-      {
-        "title": "God of War Ragnarök",
-        "audio": "god-of-war-ragnarok.mp3",
-        "image": "god-of-war-ragnarok.webp"
-      },
-      {
-        "title": "Toem",
-        "audio": "toem-a-photo-adventure.mp3",
-        "image": "toem-a-photo-adventure.webp"
-      }
-    ]
-  }
+  "2022": [
+    {
+      "title": "Lake",
+      "filename": "lake"
+    },
+    {
+      "title": "Hotel Dusk",
+      "filename": "hotel-dusk"
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "filename": "horizon-zero-dawn"
+    },
+    {
+      "title": "Halo: Combat Evolved",
+      "filename": "halo-combat-evolved"
+    },
+    {
+      "title": "Sifu",
+      "filename": "sifu"
+    },
+    {
+      "title": "Pokémon Legends: Arceus",
+      "filename": "pokemon-legends-arceus"
+    },
+    {
+      "title": "Last Window: The Secret of Cape West",
+      "filename": "last-window-the-secret-of-cape-west"
+    },
+    {
+      "title": "The Blackwell Legacy",
+      "filename": "the-blackwell-legacy"
+    },
+    {
+      "title": "The Blackwell Unbound",
+      "filename": "blackwell-unbound"
+    },
+    {
+      "title": "The Blackwell Convergence",
+      "filename": "blackwell-convergence"
+    },
+    {
+      "title": "The Blackwell Deception",
+      "filename": "blackwell-deception"
+    },
+    {
+      "title": "The Blackwell Epiphany",
+      "filename": "blackwell-epiphany"
+    },
+    {
+      "title": "Untitled Goose Game",
+      "filename": "untitled-goose-game"
+    },
+    {
+      "title": "Dark Souls",
+      "filename": "dark-souls"
+    },
+    {
+      "title": "Unavowed",
+      "filename": "unavowed"
+    },
+    {
+      "title": "The Secret of Monkey Island",
+      "filename": "the-secret-of-monkey-island"
+    },
+    {
+      "title": "Brothers",
+      "filename": "brothers"
+    },
+    {
+      "title": "Unravel Two",
+      "filename": "unravel-two"
+    },
+    {
+      "title": "Chrono Trigger",
+      "filename": "chrono-trigger"
+    },
+    {
+      "title": "Elden Ring",
+      "filename": "elden-ring"
+    },
+    {
+      "title": "Animal Crossing: New Horizons",
+      "filename": "animal-crossing-new-horizons"
+    },
+    {
+      "title": "Radical Dreamers: Le Trésor Interdit",
+      "filename": "radical-dreamers-le-tresor-interdit"
+    },
+    {
+      "title": "Chrono Cross",
+      "filename": "chrono-cross"
+    },
+    {
+      "title": "The Walking Dead",
+      "filename": "the-walking-dead"
+    },
+    {
+      "title": "The Walking Dead: Season Two",
+      "filename": "the-walking-dead-season-two"
+    },
+    {
+      "title": "The Walking Dead: Michonne",
+      "filename": "the-walking-dead-michonne"
+    },
+    {
+      "title": "The Walking Dead: A New Frontier",
+      "filename": "the-walking-dead-a-new-frontier"
+    },
+    {
+      "title": "The Walking Dead: The Final Season",
+      "filename": "the-walking-dead-the-final-season"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "filename": "grand-theft-auto-v"
+    },
+    {
+      "title": "Disco Elysium",
+      "filename": "disco-elysium"
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "filename": "horizon-forbidden-west"
+    },
+    {
+      "title": "Nobody Saves the World",
+      "filename": "nobody-saves-the-world"
+    },
+    {
+      "title": "Monkey Island 2: LeChuck’s Revenge",
+      "filename": "monkey-island-2-lechucks-revenge"
+    },
+    {
+      "title": "God of War",
+      "filename": "god-of-war"
+    },
+    {
+      "title": "God of War II",
+      "filename": "god-of-war-2"
+    },
+    {
+      "title": "God of War: Chains of Olympus",
+      "filename": "god-of-war-chains-of-olympus"
+    },
+    {
+      "title": "God of War III",
+      "filename": "god-of-war-3"
+    },
+    {
+      "title": "God of War: Ghost of Sparta",
+      "filename": "god-of-war-ghost-of-sparta"
+    },
+    {
+      "title": "God of War: Ascension",
+      "filename": "god-of-war-ascension"
+    },
+    {
+      "title": "God of War (2018)",
+      "filename": "god-of-war-2018"
+    },
+    {
+      "title": "Star Wars: Episode III: Revenge of the Sith",
+      "filename": "star-wars-episode-3-revenge-of-the-sith"
+    },
+    {
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "filename": "the-stanley-parable-ultra-deluxe"
+    },
+    {
+      "title": "The Curse of Monkey Island",
+      "filename": "the-curse-of-monkey-island"
+    },
+    {
+      "title": "Forza Horizon 4",
+      "filename": "forza-horizon-4"
+    },
+    {
+      "title": "Stray",
+      "filename": "stray"
+    },
+    {
+      "title": "A Way Out",
+      "filename": "a-way-out"
+    },
+    {
+      "title": "A Short Hike",
+      "filename": "a-short-hike"
+    },
+    {
+      "title": "Gone Home",
+      "filename": "gone-home"
+    },
+    {
+      "title": "God of War Ragnarök",
+      "filename": "god-of-war-ragnarok"
+    },
+    {
+      "title": "Toem",
+      "filename": "toem-a-photo-adventure"
+    }
+  ]
+}
