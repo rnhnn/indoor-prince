@@ -21,7 +21,7 @@ export function renderEntryContent(blocks) {
 
     if (block.type === 'unordered-list') {
       return (
-        <ul key={index}>
+        <ul key={index} className={block.className || ''}>
           {block.items.map((item, itemIndex) => (
             <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }} />
           ))}
@@ -31,14 +31,14 @@ export function renderEntryContent(blocks) {
 
     if (block.type === 'ordered-list') {
       return (
-        <ol key={index}>
+        <ol key={index} className={block.className || ''}>
           {block.items.map((item, itemIndex) => (
             <li key={itemIndex} dangerouslySetInnerHTML={{ __html: item }} />
           ))}
         </ol>
       );
     }
-
+    
     return null;
   });
 }
