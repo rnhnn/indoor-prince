@@ -1,0 +1,17 @@
+{
+  "slug": "balloons",
+  "title": "Balloons",
+  "date": "2024-04-10",
+  "image": "eiyuden-ballons.webp",
+  "alt": "New Nevaeh villagers enjoying a town upgrade",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "In <em>Eiyuden Chronicle: Rising</em>... something about those balloon reactions popping above the characters’ heads unlocked mamny memories for me. Memories of being fourteen years old, tinkering with <em>RPG Maker 2003</em>, and of being wide-eyed and dreaming big with the release of <em>RPG Maker XP</em>. I remembered making ugly sprites in a program called <em>GraphicsGale</em>, and falling in love with <em>Suikoden II</em>’s spritesheets way before playing the game itself."
+    },
+    {
+      "type": "paragraph",
+      "html": "I think I’ll give <em>RPG Maker MZ</em> a closer look."
+    } 
+  ]
+}

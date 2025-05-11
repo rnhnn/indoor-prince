@@ -1,0 +1,13 @@
+{
+  "slug": "loc-jam-6",
+  "title": "<em>Hat-trick</em> in San Mamés",
+  "date": "2024-04-15",
+  "image": "valentina-lamazon-credits.webp",
+  "alt": "End credits for the indie game Not Enough Time",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "The weekend was cold, rainy, and awesome. One of the coolest parts was seeing <a href=\"https://valstuff.com\" target=\"_blank\">Val</a> participate in a localization jam for the first time ever. She worked on a game called <a href=\"https://itch.io/jam/locjam-6/rate/2643122\" target=\"_blank\"><em>Not Enough Time</em></a>—a title that fit perfectly with how we rushed in the final minutes before the jam’s deadline, frantically debugging syntax problems to make the game load. A classic dev story, surely."
+    }
+  ]
+}

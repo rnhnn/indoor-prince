@@ -15,7 +15,10 @@ export default async function BlogPostPage({ params }) {
 
       <main className="blog-entry">
         <time className="blog-entry-date">{formatDate(post.date)}</time>
-        <h1 className="blog-entry-title">{post.title}</h1>
+        <h1
+          className="blog-entry-title"
+          dangerouslySetInnerHTML={{ __html: post.title }}
+        />
         <Image
           className="blog-entry-image"
           src={`/images/blog/${post.image}`}

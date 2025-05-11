@@ -1,0 +1,25 @@
+{
+  "slug": "the-scenario-writer",
+  "title": "The Scenario Writer",
+  "date": "2024-02-15",
+  "image": "gremio.webp",
+  "alt": "Gremio from Suikoden",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "What on earth..."
+    },
+    {
+      "type": "paragraph",
+      "html": "Yoshitaka Murayama has passed away."
+    },
+    {
+      "type": "paragraph",
+      "html": "I can’t believe it’s been three years since that super funny video pitch for the <em>Eiyuden Chronicle  </em> campaign—three years of reading his Development Report emails. For this to happen so close to the game’s release feels cruel, and unfair."
+    },
+    {
+      "type": "paragraph",
+      "html": "Rest in peace, Murayama-sensei."
+    }  
+  ]
+}

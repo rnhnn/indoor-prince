@@ -1,0 +1,21 @@
+{
+  "slug": "february-finally",
+  "title": "February, Finally",
+  "date": "2024-02-04",
+  "image": "pacman-in-la-cumbrecita.webp",
+  "alt": "A Pac-Man decoration from a restaurant",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "Having completed our search for a new apartment in the last days of a packed January, and with Val's birthday shining bright just around the corner, we decided to kick off February with a celebratory weekend getaway to the mountains!"
+    },
+    {
+      "type": "paragraph",
+      "html": "...a comfy cabin in the mountains, of course."
+    },
+    {
+      "type": "paragraph",
+      "html": "I believe it was a super happy birthday! And now that we’re back, older and less stressed... I feel like we're ready to experience the real-life version of <em>Unpacking</em>."
+    }   
+  ]
+}

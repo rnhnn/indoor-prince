@@ -1,13 +1,13 @@
 {
-    "slug": "christmas-cloud",
-    "title": "Christmas Cloud",
-    "date": "2024-12-03",
-    "image": "christmas-cloud.webp",
-    "alt": "My Cloud amiibo and our Christmas tree",
-    "content": [
-      {
-        "type": "paragraph",
-        "html": "After a month-long vacation in the US... we're finally back home! <a href=\"https://valstuff.com/\" target=\"_blank\">Val</a> put up our Christmas tree in record time, and this Cloud amiibo she got for me on the trip is the perfect symbol for this year, apparently coming to an end soon."
-      }
-    ]
-  }
+  "slug": "christmas-cloud",
+  "title": "Christmas Cloud",
+  "date": "2024-12-03",
+  "image": "christmas-cloud.webp",
+  "alt": "My Cloud amiibo and our Christmas tree",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "After a month-long vacation in the US... we're finally back home! <a href=\"https://valstuff.com/\" target=\"_blank\">Val</a> put up our Christmas tree in record time, and this Cloud amiibo she got for me on the trip is the perfect symbol for this year, apparently coming to an end soon."
+    }
+  ]
+}

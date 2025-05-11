@@ -1,0 +1,21 @@
+{
+  "slug": "coffee-places",
+  "title": "Coffee Places",
+  "date": "2024-01-31",
+  "image": "empty-coffe-talk.jpg",
+  "alt": "Geno looking out a window",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "It should not be surprising that <em>Coffee Talk</em> ended up being Val's first game purchase ever, nor that its soundtrack is on loop now."
+    },
+    {
+      "type": "paragraph",
+      "html": "It was heartbreaking to learn later that Mohammad Fahmi—real writer of those in-game short stories we loved and designer of the game itself—passed away in 2022. His tribute in <em>A Space for the Unbound</em> was very memorable for me... but I had no idea then..."
+    },
+    {
+      "type": "paragraph",
+      "html": "We'll play <em>What Comes After</em> soon. And as of today, <em>After Love EP</em> is one of my most anticipated games."
+    }   
+  ]
+}

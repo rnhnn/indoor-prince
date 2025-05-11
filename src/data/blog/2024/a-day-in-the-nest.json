@@ -1,0 +1,17 @@
+{
+  "slug": "a-day-in-the-nest",
+  "title": "A Day in the Nest",
+  "date": "2024-04-07",
+  "image": "playing-haven.webp",
+  "alt": "Yu and Kay playing Haven",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "It was a beautiful indoorsy birthday yesterday—rainy, foggy, and we only briefly went outside to get coffee. My favorite moment, though, is probably somewhere between playing <em>Haven</em> with Val and munching on the heart-shaped brownie she made."
+    },
+    {
+      "type": "paragraph",
+      "html": "I love her so much."
+    } 
+  ]
+}

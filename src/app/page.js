@@ -14,7 +14,9 @@ export default function HomePage() {
         <article className="blog-entry" key={post.slug}>
           <time className="blog-entry-date">{formatDate(post.date)}</time>
           <h2 className="blog-entry-title">
-            <Link href={`/${post.slug}`}>{post.title}</Link>
+            <Link href={`/${post.slug}`}>
+              <span dangerouslySetInnerHTML={{ __html: post.title }} />
+            </Link>
           </h2>
           <Image
             className="blog-entry-image"
