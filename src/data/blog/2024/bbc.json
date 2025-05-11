@@ -1,0 +1,21 @@
+{
+  "slug": "bbc",
+  "title": "BBC",
+  "date": "2024-06-21",
+  "image": "bbc.webp",
+  "alt": "Real Madrid’s squad, featuring La BBC",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "I was waiting for <em>Shadow of the Erdtree</em> to unlock last night when I decided to give <em>eFootball</em> a 2,843rd chance. It’s still upsetting to see Konami’s gameplay stuck in a pack-opening nightmare, but it seems that there are now ways to actually renew contracts..."
+    },
+    {
+      "type": "paragraph",
+      "html": "It was pretty cool to assemble this team back together."
+    },
+    {
+      "type": "paragraph",
+      "html": "Plus, an honorable member."
+    }
+  ]
+}

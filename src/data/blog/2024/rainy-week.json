@@ -1,0 +1,17 @@
+{
+  "slug": "rainy-week",
+  "title": "Rainy Week",
+  "date": "2024-08-20",
+  "image": "rainy-mario.webp",
+  "alt": "Rainy Mario in Super Mario Odyssey",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "I get super excited every time there’s rain in a game. Like a few days ago, with a brief storm during the Battle of Ostagar in <em>Dragon Age: Origins</em>, or a few hours ago, with this New Donk City tempest. Incidentally, it's also raining outside today, and it seems that we’re going to get an all-around cloudy week here."
+    },
+    {
+      "type": "paragraph",
+      "html": "Perfect for coffee, and dreaming up New York plans..."
+    }
+  ]
+}

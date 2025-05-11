@@ -1,17 +1,29 @@
 {
-  "slug": "ghost-stories",
-  "title": "Ghost Stories",
-  "date": "2024-04-24",
-  "image": "blackwell-epiphany-ending-image.webp",
-  "alt": "The last image in The Blackwell Epiphany",
+  "slug": "toni-kroos",
+  "title": "Toni Kroos",
+  "date": "2024-05-21",
+  "image": "toni-kroos.webp",
+  "alt": "A Toni Kroos long pass",
   "content": [
     {
       "type": "paragraph",
-      "html": "<em>The Blackwell Epiphany</em> is ten years old today."
+      "html": "I was so worried about Modric that I didn’t even consider the possibility of this being Kroos’ last season."
     },
     {
       "type": "paragraph",
-      "html": "Oddly, the five Blackwell games have been in my head a lot for the past few <s>years</s> days, as I think over the idea of a game I would like to make. I’ve been thinking of maybe replaying them all for a third time, not only because time with Rosa and Joey is always an awesome idea, but because this time I’ll be particularly interested in all the developer-commentary stuff."
+      "html": "Time is so, so cruel. Dammit."
+    },
+    {
+      "type": "paragraph",
+      "html": "It feels like yesterday that I was crying like a baby in front of my CRT after Zizou’s farewell game... but that was 2006, and in the 1<strong>8</strong> years that have passed since then, I haven’t seen another Real Madrid legend retire at the club. For some reason or another, everyone always leaves and ends up saying goodbye elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "html": "Well, not everyone! And it might sound silly, but today <em>FC 24</em> got <strong>way</strong>  more important to me—In the same way that <em>PES 6</em> is."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>¡Gracias, Toni!</strong>"
     }
   ]
 }

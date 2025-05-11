@@ -1,0 +1,17 @@
+{
+  "slug": "from-years-to-hours",
+  "title": "From Years to Hours",
+  "date": "2024-09-04",
+  "image": "astro.webp",
+  "alt": "Astro’s Playroom",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "I briefly went back to the great <em>Astro’s Playroom</em> today, and the original PSP was the last thing I found, which felt right."
+    },
+    {
+      "type": "paragraph",
+      "html": "Nothing left now, but a small wait..."
+    }
+  ]
+}

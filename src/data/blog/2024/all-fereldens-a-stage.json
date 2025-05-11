@@ -1,0 +1,17 @@
+{
+  "slug": "all-fereldens-a-stage",
+  "title": "All Ferelden’s a Stage",
+  "date": "2024-08-15",
+  "image": "ferelden.webp",
+  "alt": "Ferelden map in Dragon Age: Origins",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "Good ol’ <em>Dragon Age: Origins</em>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Looking at this map after <em>Lothering</em>, I wonder... why on earth did I go to <em>Orzammar</em> first on my first playthrough, fourteen years ago?"
+    }
+  ]
+}

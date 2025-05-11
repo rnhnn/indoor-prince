@@ -1,0 +1,13 @@
+{
+  "slug": "liberty-city",
+  "title": "Liberty City",
+  "date": "2024-11-23",
+  "image": "newy-york-mario-and-luigi.webp",
+  "alt": "Mario & Luigi figures from New York",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "Our new recruits from New York!"
+    }
+  ]
+}

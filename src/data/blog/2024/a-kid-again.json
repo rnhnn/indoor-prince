@@ -1,0 +1,17 @@
+{
+  "slug": "a-kid-again",
+  "title": "A Kid Again",
+  "date": "2024-09-09",
+  "image": "astro-bot-playstation.webp",
+  "alt": "A Playstation 1 from Astro Bot",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "So much <em>joy</em> in <em>Astro Bot</em>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Out of what felt like a thousand magical highlights... maybe my strongest dork reaction came with the unexpected McDohl-bot, appearing totally out of the blue, as in a first playthrough of <em>Suikoden II</em>. It felt like Christmas, a birthday present, and some sort of climax to many years of playing."
+    }
+  ]
+}
