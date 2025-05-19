@@ -31,9 +31,9 @@ export default function AboutPage() {
 
           <p>
             Hopefully, it’ll keep growing—and it’ll be all thanks to my lovely
-            girlfriend <a href="https://valstuff.com">Val</a>, who helps me
+            girlfriend <a href="https://valstuff.com" target="_blank">Val</a>, who helps me
             improve my English writing in every post, and to my childhood friend{' '}
-            <a href="https://vicfernandez.com/">Vic</a>, who gave the site its
+            <a href="https://vicfernandez.com/" target="_blank">Vic</a>, who gave the site its
             slick design.
           </p>
 
