@@ -10,7 +10,11 @@
       "html": "It occurred to me that this year could be last time that the old Bernabéu shows up in a new video game... so I went to sleep last night <em>unhingedly</em> imagining some sort of tribute to the Real Madrid players that became icons in my career saves—ever since becoming addicted to manager modes with <em>PES 4</em> and <em>FIFA 2004</em>."
     },
     {
-      "type": "ordered-list",
+      "type": "paragraph",
+      "html": "A list with this bunch, more or less:"
+    },
+    {
+      "type": "unordered-list",
       "className": "blog-list-columns",
       "items": [
         "Antonio Rüdiger",
@@ -64,6 +68,22 @@
         "<strong>Xabi Alonso ★</strong>",
         "<strong>Zinedine Zidane ★★★</strong>"
       ]
+    },
+    {
+      "type": "paragraph",
+      "html": "I would love to add <strong>Hierro ★</strong>, <strong>Makélélé ★</strong> and <strong>Redondo ★</strong>; alas, I only had them during my sleepless <em>Championship Manager</em> days."
+    },
+    {
+      "type": "paragraph",
+      "html": "All this to say that I’m very nervous about today."
+    },
+    {
+      "type": "paragraph",
+      "html": ". . ."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>P.S. ¡VAMOS!</strong>"
     }
   ]
 }
