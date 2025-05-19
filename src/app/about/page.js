@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import meAndMy3ds from '@/../public/images/about/me-and-my-3ds.webp';
 
 export default function AboutPage() {
@@ -23,9 +24,9 @@ export default function AboutPage() {
             I’m building this site around my love for video games... and mostly
             as a consequence of my obsessive traits. It kinda started in 2020,
             with a CSS experiment that is now my{' '}
-            <a href="/compendium">Compendium</a>, and it grew significantly at
+            <Link href="/compendium">Compendium</Link>, and it grew significantly at
             the end of 2023 with the first entry of the{' '}
-            <a href="/">Blog</a>.
+            <Link href="/">Blog</Link>.
           </p>
 
           <p>
