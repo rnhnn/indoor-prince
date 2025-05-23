@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 
 export const metadata = {
   title: 'Indoor Prince',
-  description: 'A personal blog by Indoor Prince',
+  description: 'A site about video games',
 };
 
 export default function RootLayout({ children }) {
