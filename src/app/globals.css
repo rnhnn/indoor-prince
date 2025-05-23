@@ -627,12 +627,23 @@ img {
 
 .blog-index {
   opacity: 0;
-  visibility: hidden; /* Ensures the element is not interactive when invisible */
-  transition: opacity 0.3s ease, visibility 0s 0.3s; /* Delay visibility change after opacity */
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0s 0.3s;
 }
 
 .blog-index.is-visible {
   opacity: 1;
   visibility: visible;
-  transition: opacity 0.3s ease, visibility 0s 0s; /* Immediate visibility when fading in */
+  transition: opacity 0.3s ease, visibility 0s 0s;
+}
+
+.experiment {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.game-board {
+  width: 100%;
+  height: 500px;
+  background-color: black;
 }
