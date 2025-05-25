@@ -643,7 +643,67 @@ img {
 }
 
 .game-board {
+  position: relative;
   width: 100%;
   height: 500px;
   background-color: black;
+  padding-top: 50px;
+}
+
+.game-moment-menu,
+.game-moment-started {
+  display: none;
+}
+
+.game-page {
+  position: relative;
+  width: 60%;
+  height: 100%;
+  background-color: #f4f4f4;
+  margin: 0 auto 0 120px;
+}
+
+.game-npc {
+  position: absolute;
+  top: 20px;
+  left: -80px;
+  height: 200px;
+  width: 135px;
+  background-color: black;
+  border: 5px solid white;
+}
+
+.game-text {
+  padding: 25px 80px;
+  font-size: 23px;
+}
+
+.game-menu {
+  width: 160px;
+  position: absolute;
+  bottom: 0;
+  right: 30px;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.game-menu-portrait {
+  height: 180px;
+  width: 100%;
+  background-color: black;
+  border: 5px solid white;
+}
+
+.game-menu-list {
+  list-style: none;
+  padding: 0;
+}
+
+.game-menu-button {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.game-menu-button + .game-menu-button {
+  margin-top: 15px;
 }
