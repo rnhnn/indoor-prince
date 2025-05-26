@@ -41,7 +41,7 @@ export default function Archive({ posts }) {
           <ul className="blog-index-list">
             {posts.map((post) => (
               <li className="blog-index-list-item" key={post.slug}>
-                <span>{formatArchiveDate(post.date)}</span>
+                <span className="blog-index-list-date">{formatArchiveDate(post.date)}</span>
                 <a href={`/${post.slug}`}>
                   <span dangerouslySetInnerHTML={{ __html: post.title }} />
                 </a>
