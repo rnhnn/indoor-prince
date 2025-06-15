@@ -1,6 +1,14 @@
 {
   "2021": [
     {
+      "title": "Astro’s Playroom",
+      "filename": "astros-playroom"
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "filename": "marvels-spider-man-miles-morales"
+    },
+    {
       "title": "Demon’s Souls",
       "filename": "demons-souls"
     },
@@ -47,6 +55,10 @@
     {
       "title": "Hades",
       "filename": "hades"
+    },
+    {
+      "title": "Unravel",
+      "filename": "unravel"
     },
     {
       "title": "Mass Effect",
@@ -101,12 +113,12 @@
       "filename": "it-takes-two"
     },
     {
-      "title": "Twelve Minutes",
-      "filename": "twelve-minutes"
+      "title": "FIFA 21",
+      "filename": "fifa-21"
     },
     {
-      "title": "Unravel",
-      "filename": "unravel"
+      "title": "Twelve Minutes",
+      "filename": "twelve-minutes"
     },
     {
       "title": "Resident Evil",

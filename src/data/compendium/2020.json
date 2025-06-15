@@ -61,6 +61,30 @@
       "filename": "ghost-of-tsushima"
     },
     {
+      "title": "A King’s Tale: Final Fantasy XV",
+      "filename": "a-kings-tale-final-fantasy-15"
+    },
+    {
+      "title": "Final Fantasy XV",
+      "filename": "final-fantasy-15"
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "filename": "assassins-creed-origins"
+    },
+    {
+      "title": "Batman: Arkham Asylum",
+      "filename": "batman-arkham-asylum"
+    },
+    {
+      "title": "Batman: Arkham City",
+      "filename": "batman-arkham-city"
+    },
+      {
+      "title": "Batman: Arkham Knight",
+      "filename": "batman-arkham-knight"
+    },
+    {
       "title": "Uncharted: Drake’s Fortune",
       "filename": "uncharted-drakes-fortune"
     },
@@ -73,12 +97,12 @@
       "filename": "assassins-creed"
     },
     {
-      "title": "A King’s Tale: Final Fantasy XV",
-      "filename": "a-kings-tale-final-fantasy-15"
+      "title": "Gran Turismo Sport",
+      "filename": "gran-turismo-sport"
     },
     {
-      "title": "Final Fantasy XV",
-      "filename": "final-fantasy-15"
+      "title": "FIFA 20",
+      "filename": "fifa-20"
     },
     {
       "title": "Uncharted 2: Among Thieves",
@@ -95,18 +119,6 @@
     {
       "title": "Cyberpunk 2077",
       "filename": "cyberpunk-2077"
-    },
-    {
-      "title": "Gran Turismo Sport",
-      "filename": "gran-turismo-sport"
-    },
-    {
-      "title": "Astro’s Playroom",
-      "filename": "astros-playroom"
-    },
-    {
-      "title": "Marvel’s Spider-Man: Miles Morales",
-      "filename": "marvels-spider-man-miles-morales"
     }
   ]
 }
