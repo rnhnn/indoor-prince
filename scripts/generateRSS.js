@@ -13,17 +13,12 @@ const itemsXml = posts
       ${post.content.map((block) => block.html).join('')}
     `;
 
-    const plainDescription = post.content[0]?.html
-      ?.replace(/<[^>]*>/g, '') // Strip HTML tags
-      .slice(0, 200); // Optional: trim to 200 chars
-
     return `
       <item>
         <title><![CDATA[${post.title}]]></title>
         <link>${siteURL}/${post.slug}</link>
         <guid>${siteURL}/${post.slug}</guid>
         <pubDate>${new Date(post.date).toUTCString()}</pubDate>
-        <description><![CDATA[${plainDescription}]]></description>
         <content:encoded><![CDATA[${fullContent}]]></content:encoded>
       </item>
     `;
