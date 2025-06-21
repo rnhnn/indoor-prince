@@ -9,6 +9,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="RSS"
+          href="/rss.xml"
+        />
+      </head>
       <body>
         <Header />
         {children}
