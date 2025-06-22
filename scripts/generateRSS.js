@@ -10,7 +10,7 @@ const itemsXml = posts
   .map((post) => {
     const fullContent = `
       <img src="${siteURL}/images/blog/${post.image}" alt="${post.alt}" style="max-width:100%; height:auto;" />
-      ${post.content.map((block) => block.html).join('')}
+      ${post.content.map((block) => block.html).join('\n\n')}
     `;
 
     return `
