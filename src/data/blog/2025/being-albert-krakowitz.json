@@ -1,0 +1,21 @@
+{
+  "slug": "being-albert-krakowitz",
+  "title": "Being Albert Krakowitz",
+  "date": "2025-06-22",
+  "image": "tomate-un-descanso.webp",
+  "alt": "Albert Krakowitz in Tómate un Descanso",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "I was young and in love with SCUMM games when I discovered <em>Tómate un Descanso</em>, a graphic adventure by <a href=\"https://www.ciroduran.com/about\" target=\"_blank\">Ciro Durán</a>. To my surprise (and probably because we've been reminiscing a lot about our old blogging days lately), <a href=\"https://vicfernandez.com\" target=\"_blank\">Vic</a> stumbled upon <a href=\"https://www.ciroduran.com/es/2023/10/20-tomate-un-descanso\" target=\"_blank\">a fairly recent retrospective of the game</a>—including a very cool nod to the blog where I reviewed it back in 2008!"
+    },
+    {
+      "type": "paragraph",
+      "html": "<em>Tómate un Descanso</em> was the first game made in my home country that I ever played. For that, and for Ciro's point-and-click humor, I tried launching it again today on my PC... and it worked!"
+    },
+    {
+      "type": "paragraph",
+      "html": "A win for game preservation and avoiding work."
+    } 
+  ]
+}
