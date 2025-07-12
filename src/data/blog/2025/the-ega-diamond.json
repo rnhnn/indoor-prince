@@ -1,0 +1,17 @@
+{
+  "slug": "the-ega-diamond",
+  "title": "The EGA Diamond",
+  "date": "2025-07-12",
+  "image": "the-crimson-diamond.webp",
+  "alt": "Nancy Maple from The Crimson Diamond",
+  "content": [
+    {
+      "type": "paragraph",
+      "html": "I want to believe that my childhood box of floppy disks is somewhere out there, waiting for someone who will discover inside the adventure games I pirated in my early days with a computer: the point-and-clicks I  managed to understand and love back then, like <em>Loom</em> and <em>The Secret of Monkey Island</em>, and the enigmatic text parser ones, like <em>Police Quest</em> or <em>The Colonel’s Bequest</em>, that went completely over my dumb and non-English-speaking head."
+    },
+    {
+      "type": "paragraph",
+      "html": "This week, luckily, I got to spend the evenings after work playing <em>The Crimson Diamond</em> by <a href=\"https://www.juliaminamata.com\" target=\"_blank\">Julia Minamata</a>, and now that whole mystery is what I would consider my first real experience with a text parser game. Nancy Maple rules from the start, and the ending I got left me feeling very inspired, with ideas on how to approach the development of a narrative game—but also with a desire to go back and finally play through those Laura Bow adventures I missed as a kid. Especially <em>The Colonel’s Bequest</em>, which I also remember finding a bit scary... but surely it’s going to be fine now!"
+    }
+  ]
+}
